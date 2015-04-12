@@ -1,3 +1,4 @@
+
 zipFile <- "exdata-data-household_power_consumption.zip"
 dataFile <- "household_power_consumption.txt"
 
